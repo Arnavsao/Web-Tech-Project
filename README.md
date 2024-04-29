@@ -1,8 +1,10 @@
 # Web-Tech-Project
 
 
-https://github.com/Arnavsao/Web-Tech-Project/assets/140349606/8297aa21-943b-4351-b395-4a45a70cb7db
-
+<video width="100%" autoplay muted>
+  <source src="https://github.com/Arnavsao/Web-Tech-Project/assets/140349606/8297aa21-943b-4351-b395-4a45a70cb7db" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 ## Project Overview
 The project entails constructing a service provider website employing HTML, CSS, JavaScript, MongoDB, Node.js, and Express. Users can register or log in, while companies can post their registration forms, detailing their requirements directly on the site.
